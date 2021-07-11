@@ -97,7 +97,7 @@ function distinct(arr) {
 
 **From 2015** Senior Lecturer at the Department of Graphics.
 
-**My projects:**
+### My projects:
 
 -   Lifan solano ownersclub web site
 -   Visual zoo website
@@ -111,7 +111,7 @@ Projects can be viewed in my GitHub (https://github.com/OlegNikitin75)
 
 ## Education:
 
-**Basic**
+### Basic:
 
 **1990 — 1994** Study at the Gomel technical school of railway transport, specializing in “Technician-electromechanic TPS”.
 
@@ -121,11 +121,11 @@ Projects can be viewed in my GitHub (https://github.com/OlegNikitin75)
 
 **2000 — 2003** Postgraduate studies with a degree in Materials Science (Mechanical Engineering).
 
-**Programming:**
+**Level of English** A1
+
+### Programming:
 
 -   Self-study
 -   Online training
 -   Online courses on RSschool
 -   Online courses on ReactJS from (https://ItGid.com)
-
-**Level of English** A1
