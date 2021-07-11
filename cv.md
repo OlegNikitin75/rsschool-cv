@@ -32,7 +32,7 @@ I am fond of programming in the field of front end development.
 
 ## Skills:
 
-**Methodology** BEM 
+**Methodology** BEM
 
 **Development tools** Bootstrap, SASS, Gulp, Webpack, Figma, Photoshop
 
@@ -41,3 +41,50 @@ I am fond of programming in the field of front end development.
 **Frameworks** ReactJS
 
 **Version control systems** Git
+
+## Code examples:
+
+**Playing with Sets : Intersection**
+
+```
+function inter(s1, s2) {
+  let c = new Set()
+  s1.forEach(item => {
+    s2.forEach(elem => {
+      if (elem === item) {
+        c.add(item);
+      }
+    });
+  });
+  return c;
+}
+```
+
+**Squares sequence**
+
+```
+function squares(x, n) {
+  let arr = [];
+  arr.push(x);
+  if (n <= 0) {
+    arr.pop();
+    return arr;
+  }
+  for (let i = 0; i <= n - 2; i++) {
+    arr.push(Math.pow(arr[arr.length - 1], 2));
+  }
+  return arr;
+}
+```
+
+**Remove duplicates from list**
+
+```
+function distinct(arr) {
+  const arrResult = arr.reduce((elements, item) => {
+    return elements.includes(item) ? elements : [...elements, item]
+  }, []);
+  return arrResult;
+}
+
+```
