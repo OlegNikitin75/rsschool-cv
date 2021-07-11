@@ -9,3 +9,22 @@
 **Phone number** +375 29 196-42-08
 
 **Email** nov075@mail.ru
+
+## About myself:
+
+I am a senior lecturer at a university.  
+I am engaged in scientific work in the areas of teaching engineering  
+and graphic disciplines,as well as 3D modeling of technical objects  
+and engineering CAD design.  
+I am fond of programming in the field of front end development.  
+
+**Objective** Enter the profession of a "frontend developer"
+
+**Priorities** Further improvement in programming
+
+**Personal qualities:**
+  * hard work
+  * purposefulness
+  * ability to learn quickly
+  * high efficiency
+  * ability to work both independently and in a team
