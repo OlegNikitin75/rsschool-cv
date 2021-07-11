@@ -88,3 +88,23 @@ function distinct(arr) {
 }
 
 ```
+
+## Education:
+
+**Basic**
+
+1990 — 1994 Study at the Gomel technical school of railway transport, specializing in “Technician-electromechanic TPS”.
+
+1994 — 1999 Study at the Belarusian State University of Transport with a degree in Technology and Equipment for Highly Effective Material Processing Processes.
+
+1999 — 2000 Study in a magistracy on specialty "Materials Science (Mechanical Engineering)".
+
+2000 — 2003 Postgraduate studies with a degree in Materials Science (Mechanical Engineering).
+
+**Programming:**
+
+-   Self-study
+-   Online training
+-   Online courses on ReactJS from (https://ItGid.com)
+
+**Level of English** A1
