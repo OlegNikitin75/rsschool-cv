@@ -89,22 +89,43 @@ function distinct(arr) {
 
 ```
 
+## Experience:
+
+**1999 — 2011** Assistant to the senior lecturer of the department "Graphics", later senior lecturer of the department "Graphics".
+
+**2011 — 2015** I worked as a design engineer, chief engineer at industrial enterprises of non–state ownership.
+
+**From 2015** Senior Lecturer at the Department of Graphics.
+
+**My projects:**
+
+-   Lifan solano ownersclub web site
+-   Visual zoo website
+-   Image filtering web application
+-   Virtual piano web application
+-   University olympiad landing page
+-   Photographer's personal website
+-   Environmental protection landing page
+
+Projects can be viewed in my GitHub (https://github.com/OlegNikitin75)
+
 ## Education:
 
 **Basic**
 
-1990 — 1994 Study at the Gomel technical school of railway transport, specializing in “Technician-electromechanic TPS”.
+**1990 — 1994** Study at the Gomel technical school of railway transport, specializing in “Technician-electromechanic TPS”.
 
-1994 — 1999 Study at the Belarusian State University of Transport with a degree in Technology and Equipment for Highly Effective Material Processing Processes.
+**1994 — 1999** Study at the Belarusian State University of Transport with a degree in Technology and Equipment for Highly Effective Material Processing Processes.
 
-1999 — 2000 Study in a magistracy on specialty "Materials Science (Mechanical Engineering)".
+**1999 — 2000** Study in a magistracy on specialty "Materials Science (Mechanical Engineering)".
 
-2000 — 2003 Postgraduate studies with a degree in Materials Science (Mechanical Engineering).
+**2000 — 2003** Postgraduate studies with a degree in Materials Science (Mechanical Engineering).
 
 **Programming:**
 
 -   Self-study
 -   Online training
+-   Online courses on RSschool
 -   Online courses on ReactJS from (https://ItGid.com)
 
 **Level of English** A1
